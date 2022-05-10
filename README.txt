@@ -1,6 +1,6 @@
-This folder contain solution to task 2 in different environment (i.e Python, Excel and Power BI)
+This repository contain solutions of the problem stated in the about section provided in different environment (i.e Python, Excel and Power BI)
 Python was used to query the worksheets as a table. SQL qeuries and pandas manipulation commands were used to clean
-and merge queries.
+and merge queries. The Report&Analysis excel file contain the solutions to the problem in different worksheets. The Power BI file presents the visualization analytics of the solutions in the Excel file
 
 Important Note..........
 1.To open the Python file, you may want to make sure you have python and jupyter notebook installed on your computer
